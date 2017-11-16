@@ -11,7 +11,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations/coffee-gear.svg
+    - image: /img/domek.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
