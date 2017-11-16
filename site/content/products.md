@@ -3,7 +3,7 @@ title: Our Coffee
 type: products
 page: /products.html
 image: /img/2d.png
-heading: What we offer
+heading: What we offer jgyug7tfthujio
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
